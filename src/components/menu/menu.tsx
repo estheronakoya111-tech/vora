@@ -79,7 +79,7 @@ function SpiceLevel({ level }: { level: number }) {
   );
 }
 
-function MenuContent() {
+export function Menu() {
   const { addItem, setIsDrawerOpen } = useCart();
   const searchParams = useSearchParams();
   const searchDishParam = searchParams.get("search");
