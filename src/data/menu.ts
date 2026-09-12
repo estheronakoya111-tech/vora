@@ -164,7 +164,7 @@ export const menuItems: MenuItem[] = [
     description:
       "Fragrant spiced rice cooked with tender beef and aromatic spices.",
     price: 8500,
-    image: "/images/beefpilau.jpg",
+    image: "/images/Beefpilau.jpg",
     spiceLevel: 1,
     servings: "Serves 1-2",
     prepTime: "~30 min",
